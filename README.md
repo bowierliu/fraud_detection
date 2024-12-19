@@ -13,7 +13,6 @@ This project demonstrates a comprehensive approach to detecting fraudulent trans
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
 - [Results](#results)
-- [Future Work](#future-work)
 
 ---
 
